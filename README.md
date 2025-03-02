@@ -1,9 +1,9 @@
 
-# Machine Learning Algorithms 🚀
+# Machine Learning Algorithms 
 
 This repository contains implementations of standard Machine Learning (ML) algorithms in Python.
 
-## 📌 Algorithms Included
+##  Algorithms Included
 - **Supervised Learning**
   - Regression: `Linear Regression`, `Logistic Regression`
   - Classification: `Decision Trees`, `SVM`, `Naive Bayes`
@@ -12,7 +12,7 @@ This repository contains implementations of standard Machine Learning (ML) algor
 - **Reinforcement Learning**
   - `Q-Learning`, `Deep Q Networks (DQN)`
 
-## 🔹 Installation
+## Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/ML-Algorithms.git
